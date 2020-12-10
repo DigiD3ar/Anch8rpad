@@ -1,6 +1,6 @@
 # Anch8rpad
 a tiny macropad to control your audio things.
-![Anch8rpad](https://drive.google.com/file/d/1rteIy0KysipasCxoeS3Ni3xb66KOegkp)
+![Anch8rpad](https://i.imgur.com/ZNdrnw0.png)
 
 Si quieres un macropad como este baja el zip en la carpeta "gerber" y subelo a un cotizador de pcbs como [JLCPCB](https://jlcpcb.com)
 y cotizalo con envio a tu casa.
