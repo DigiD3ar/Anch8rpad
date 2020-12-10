@@ -1,6 +1,6 @@
 # Anch8rpad
 a tiny macropad to control your audio things.
-![Anch8rpad](https://i.imgur.com/ZNdrnw0.png)
+![Anch8rpad](https://i.imgur.com/QvxCRVM.png)
 
 Si quieres un macropad como este baja el zip en la carpeta "gerber" y subelo a un cotizador de pcbs como [JLCPCB](https://jlcpcb.com)
 y cotizalo con envio a tu casa.
@@ -19,4 +19,5 @@ para armarlo necesitaras lo siguiente :
 Y para terminar solo necesitas el archivo firmware en formato hex de para flashearlo con el programa QMK TOOLS en tu pro micro.
 
 Gracias al gran tenochticlack! por el case 3D y su ayuda para la realizacion de este proyecto. siganlo en su [instagram](https://www.instagram.com/tenochticlack)
+para mas proyectos pueden seguirme  en mi [instagram](https://www.instagram.com/keeb_lounge)
 
