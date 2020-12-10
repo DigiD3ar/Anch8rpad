@@ -18,3 +18,5 @@ para armarlo necesitaras lo siguiente :
 
 Y para terminar solo necesitas el archivo firmware en formato hex de para flashearlo con el programa QMK TOOLS en tu pro micro.
 
+Gracias al gran tenochticlack! por el case 3D y su ayuda para la realizacion de este proyecto. siganlo en su [instagram](https://www.instagram.com/tenochticlack)
+
