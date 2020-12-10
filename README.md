@@ -6,6 +6,10 @@ a tiny macropad to control your audio things.
 Si quieres un macropad como este baja el zip en la carpeta "gerber" y subelo a un cotizador de pcbs como [JLCPCB](https://jlcpcb.com)
 y cotizalo con envio a tu casa.
 
+Para el case hay 2 opciones:
+* Case para imprimir hecho por tenochticlack : [link](https://www.thingiverse.com/thing:4680731)
+* Case en capas de acrilico por digid3ar : WIP
+
 para armarlo necesitaras lo siguiente : 
 * Cautin para soldar
 * Estaño
