@@ -2,7 +2,8 @@
 a tiny macropad to control you audio things.
 ![Anch8rpad](https://drive.google.com/file/d/1rteIy0KysipasCxoeS3Ni3xb66KOegkp)
 
-Si quieres un macropad como este baja el zip en la carpeta "gerber" y subelo a un cotizador de pcbs como [JLCPCB](https://jlcpcb.com)y cotizalo con envio a tu casa
+Si quieres un macropad como este baja el zip en la carpeta "gerber" y subelo a un cotizador de pcbs como [JLCPCB](https://jlcpcb.com)
+y cotizalo con envio a tu casa.
 
 para armarlo necesitaras lo siguiente : 
 * Cautin para soldar
